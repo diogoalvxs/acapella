@@ -1,0 +1,36 @@
+  .btn-criarform {
+   border-radius: 7px;
+   background: none;
+   border: 2px solid white;
+   width: 83px;
+   height: 29px;
+   font-weight: 600;
+   font-size: 14px;
+   margin: 18px 0px 0px -26%;
+   color: white;
+   cursor: pointer;
+}
+
+ .btn-criarform:hover{
+    background: whitesmoke;
+    color: black;
+ 
+}
+  .btn-loginform {
+    border-radius: 7px;
+    background: none;
+    border: 2px solid white;
+    width: 91px;
+    height: 31px;
+    font-weight: 600;
+    font-size: 15px;
+    margin: 18px 0px 0px -23%;
+    color: white;
+    cursor: pointer;
+}
+ .btn-loginform:hover{
+    background: whitesmoke;
+    color: black;
+    transform: scale(1.02);
+
+}
