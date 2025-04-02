@@ -1,18 +1,31 @@
-<h3>🎵 Acapella</h3>
+🎵 Acapella  
+### About  
 
-<b>Sobre: </b>
+Acapella is a platform designed to provide an intuitive and enjoyable experience in the world of music. This project allows users to discover and listen to songs from different genres and artists, as well as podcasts. Inspired by the leading platforms in the market, Acapella aims to offer an accessible and well-organized environment for music exploration.  
 
-"Acapella" foi concebida com a proposta de oferecer aos utilizadores uma experiência no universo da música, proporcionando um ambiente intuitivo e agradável para descobrir e ouvir  músicas de diferentes gêneros e artistas, além de podcasts. Com inspirações nas plataformas líderes do mercado.
+🚀 **Technologies Used**  
 
-#
-<b>🚀Linguagens usadas</b>
-<br>
-<br>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-<br>
-#
-<b>🚀Dicas</b><br><br>
-É preciso o utilizador utilizar um software para criar um ambiente local de desenvolvimento que simula um servidor real (MySQL, Apache), eu recomendo o <b> <i>Xampp</i></b>. Após isso é só importar a db <b>(/.db/auth_db.sql)</b>. 
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** PHP  
+- **Database:** MySQL  
+- **Local Server:** XAMPP is recommended to simulate a real environment.  
+
+🛠 **Installation & Usage**  
+
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/your-username/acapella.git
+   cd acapella
+   ```  
+2. Set up a local environment with Apache and MySQL (XAMPP recommended).  
+3. Import the database:  
+   - Locate the `auth_db.sql` file in the `/db/` folder.  
+   - Import it into your MySQL database manager.  
+4. Run the project in your local environment.  
+
+🔎 **Notes**  
+
+- Ensure that all dependencies and necessary files are in the correct directory.  
+- The project can be customized to meet different musical needs.  
+
+Feel free to contribute and improve Acapella! 🚀🎶  
